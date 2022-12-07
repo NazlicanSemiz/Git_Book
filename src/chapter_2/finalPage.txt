@@ -1,0 +1,7 @@
+so far we learned got flow
+commit -> push
+
+and
+
+remote -> local
+pull/update
